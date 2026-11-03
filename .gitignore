@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+build/
+demo/build/
+demo/gfx/*.scr
+*.pyc
+__pycache__/
+
+# sekrety / system
+.env
+secrets.h
+secrets.py
+tools/bin/

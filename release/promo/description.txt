@@ -1,0 +1,56 @@
+zxSnake - Classic Snake Game for ZX Spectrum 48K
+=================================================
+
+zxSnake is a faithful reimagining of the classic snake game, crafted specifically 
+for the ZX Spectrum 48K. Featuring colorful 16x16 pixel graphics, animated fruits, 
+and 8 unique challenging levels, it brings the timeless gameplay to Sir Clive's 
+beloved machine.
+
+Guide your snake through increasingly difficult mazes, collecting fruits to grow 
+longer and rack up points. Each fruit type offers different rewards - from the 
+common apple worth 10 points per level, to the elusive cherry that grants a 
+whopping 25 points multiplied by the current level number.
+
+FEATURES:
+
+* 8 Hand-Crafted Levels - From open fields to complex mazes, each level presents 
+  unique challenges with different wall layouts.
+
+* 4 Animated Fruit Types - Apples, bananas, grapes, and cherries, each with their 
+  own point values and smooth 2-frame animations.
+
+* New Game+ Mode - Think you've mastered all 8 levels? Complete them and start 
+  again with increased speed and more fruits required. The difficulty keeps 
+  scaling infinitely!
+
+* 3 Lives System - Make mistakes without instant game over. Each death returns 
+  you to the start of the current level with your score preserved from when you 
+  entered it.
+
+* Multiple Control Options - Choose between QAOP, WASD keyboard layouts, or 
+  Kempston joystick - whatever feels most comfortable.
+
+* Authentic Presentation - Custom loading screen, catchy menu music, and 
+  satisfying sound effects for eating, dying, and leveling up.
+
+* Polished Snake Graphics - Proper directional head sprites, corner pieces for 
+  smooth turns, and animated tail - not just simple blocks!
+
+The game runs on any ZX Spectrum 48K or compatible machine, including 128K models 
+and modern emulators. Written entirely in Z80 assembly language for optimal 
+performance.
+
+Challenge yourself to beat all 8 levels and see how many New Game+ loops you can 
+survive as the snake gets faster with each completion. Can you reach the top of 
+the high score table?
+
+Perfect for quick gaming sessions or extended play - zxSnake delivers that 
+"just one more try" feeling that made classic arcade games so addictive.
+
+---
+
+Controls: QAOP / WASD / Kempston Joystick
+Platform: ZX Spectrum 48K (compatible with 128K, +2, +3)
+Author: Marek Piotrowski
+Year: 2026
+License: Freeware

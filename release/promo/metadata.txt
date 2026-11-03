@@ -1,0 +1,45 @@
+GAME METADATA
+=============
+
+Title:        zxSnake
+Version:      1.0
+Author:       Marek Piotrowski
+Year:         2026
+Language:     English
+
+Platform:     ZX Spectrum 48K
+Compatibility: 48K, 128K, +2, +2A, +3, clones, emulators
+
+Genre:        Arcade
+Subgenre:     Snake / Action
+
+Controls:     Keyboard (QAOP or WASD), Kempston Joystick
+Players:      1
+
+License:      Freeware (free to distribute and play)
+
+File Formats:
+  - zxsnake_v1.0.tap (TAP format)
+  - zxsnake_v1.0.tzx (TZX format)
+
+File Size:    ~21 KB (including loading screen)
+Code Size:    13,928 bytes
+
+Features:
+  - 8 unique levels with different layouts
+  - 4 animated fruit types with different point values
+  - 3 lives system
+  - New Game+ infinite difficulty scaling
+  - Custom loading screen
+  - Menu music and sound effects
+  - High score tracking
+
+Tags:         snake, arcade, classic, retro, action, puzzle
+
+Website:      https://marekpi.itch.io/zxsnake
+Contact:      Marek Piotrowski
+
+CHECKSUMS
+---------
+zxsnake_v1.0.tap MD5:  18aee2f9d55a90aeae7956be78fbc5e5
+zxsnake_v1.0.tzx MD5:  76206390f0dea42f23b7e06a8dd454b3
