@@ -51,3 +51,7 @@ The default build creates `build/zxsnake.tap`. Release files are available in `r
 - Board size: 16 x 11 tiles, 16 x 16 pixels each.
 - Current release version: `1.0`.
 - `ST_PAUSED` is defined in code but not exposed in the main gameplay loop.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
